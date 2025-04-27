@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">LiquidAI - Autonomous Decentralized Intelligence Framework</h1>
-<h3 align="center">Blockchain-Powered Multi-Agent AI Network for Web3 Ecosystems</h3>
+
+<h3 align="center">Blockchain-Powered Multi-Agent AI Network for Web3 Ecosystems
+CA:CGyP5or43mp5gF8eQp17QTAhWw4aT6CvXoGDckhAbonk</h3>
 
 <div align="center">
   
